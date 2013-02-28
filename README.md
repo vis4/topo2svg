@@ -4,9 +4,12 @@ A simple script that renders SVG from TopoJSON. Build with [d3](http://d3js.org)
 
 Usage:
 
-    topo2svg -o germany.svg germany.json
+    node topo2svg.js -o germany.svg germany.json
 
 
 This is an early prototype. API may change, features may be added.
 
+## Todo
+
+* make proper node package
 
