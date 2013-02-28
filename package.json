@@ -1,0 +1,24 @@
+{
+  "name": "topo2svg",
+  "version": "0.0.1",
+  "description": "A script that renders TopoJSON to SVG.",
+  "keywords": [
+    "topojson",
+    "svg"
+  ],
+  "author": {
+    "name": "Gregor Aisch",
+    "url": "http://driven-by-data.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github-com/gka/topo2svg.git"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "d3": "3.0.x"
+  },
+  "bin": {
+    "topojson2svg": "./bin/topo2svg"
+  }
+}
