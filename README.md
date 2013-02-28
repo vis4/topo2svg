@@ -12,4 +12,6 @@ This is an early prototype. API may change, features may be added.
 ## Todo
 
 * make proper node package
-
+* include properties in SVG as data attributes
+* allow change of projections
+* keep projection information in SVG metadata section
